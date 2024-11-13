@@ -1,6 +1,6 @@
 package com.example.soa.entity;
 
-// test
+//
 
 public class User {
     String firstName;
